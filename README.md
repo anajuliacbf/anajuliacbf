@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Ana Julia
 - 🔭 Atualmente estou à procura do meu primeiro emprego
 - 🌱 Estou estudando PHP
-- 📫 Contate-me no e-mail: anajuliacbfernandes@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Gosto muito da área back-end!
 
