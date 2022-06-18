@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Ana Julia
-- 🔭 Atualmente estou à procura do meu primeiro emprego
+- 🔭 Atualmente estou à procura de estágio
 - 🌱 Estou estudando PHP
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Gosto muito da área back-end!
