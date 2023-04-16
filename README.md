@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Julia
-- 🔭 Atualmente estou à procura de estágio
-- 🌱 Estou estudando PHP
+- 🔭 Atualmente estou à procura de estágio na área de TI
+- 🌱 Estou estudando Python
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Gosto muito da área back-end!
 
