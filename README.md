@@ -2,7 +2,6 @@
 - 🔭 Gosto muito da área de Ciência de Dados
 - 🌱 Estou estudando Python e R
 - 😄 Pronouns: ela/dela
-/*- ⚡ Fun fact: Gosto muito da área back-end!*/
 
 
 <div align="center">
