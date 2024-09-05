@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Ana Julia
-- 🔭 Atualmente estou à procura de estágio na área de TI
-- 🌱 Estou estudando Python
+- 🔭 Gosto muito da área de Ciência de Dados
+- 🌱 Estou estudando Python e R
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Gosto muito da área back-end!
+/*- ⚡ Fun fact: Gosto muito da área back-end!*/
 
 
 <div align="center">
