@@ -1,4 +1,4 @@
-## Olá!! Sou a Ana Julia, estudante de Ciência de Dados ;)
+## Olá!! Sou a Ana Julia, Cientista de Dados ;)
 <div align="center">
   <a href="https://github.com/anajuliacbf">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajuliacbf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
